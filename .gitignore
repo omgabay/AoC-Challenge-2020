@@ -1,3 +1,4 @@
-notebooks/data
-notebooks/cifar_net.pth
+requirements.txt
+.devcontainer
 .ipynb_checkpoints/
+README.md
